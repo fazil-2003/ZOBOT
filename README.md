@@ -63,9 +63,3 @@ Implements secure phone number verification for user authentication.
 # Conclusion:
 Our Zoho Cliqtrix bot for HR hiring purposes is a testament to our commitment to innovation and efficiency.
 By combining the power of Zoho Cliqtrix and our development skills, we've created a tool that simplifies the hiring process for both users and HR professionals.
-
-Feel free to customize this description based on the specific functionalities and features your team implemented during the Zoho Cliqtrix event.
-
-# ZOBOT
-
-# Problem Statement:
