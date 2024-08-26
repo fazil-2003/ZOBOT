@@ -62,10 +62,9 @@ Implements secure phone number verification for user authentication.
 
 # SEE HOW ITS WORKS?
 ![Screenshot_2023-12-13-14-45-06-227_com android chrome](https://github.com/user-attachments/assets/00c015e4-9c0a-476c-b7b1-a59d9b98905a)
-![Screenshot_2023-12-13-14-45-06-227_com android chrome](https://github.com/user-attachments/assets/d7bcf08e-fa58-49f9-8281-1e2354da4cea)
-![Screenshot_2023-12-13-14-45-06-227_com android chrome](https://github.com/user-attachments/assets/be1ecef3-0a63-4d88-b8b4-6c839d4361d2)
-![Screenshot_2023-12-13-14-45-06-227_com android chrome](https://github.com/user-attachments/assets/fdb080b7-639c-4320-8138-db57ac773441)
-
+![Screenshot_2023-12-13-14-46-11-349_com android chrome](https://github.com/user-attachments/assets/f00ea48a-99f9-4f2c-9a77-05ede337aedc)
+![Screenshot_2023-12-13-14-47-32-234_com android chrome](https://github.com/user-attachments/assets/f169d74c-57af-427b-9ecd-5784c1959dcb)
+![Screenshot_2023-12-13-14-50-07-267_com android chrome](https://github.com/user-attachments/assets/4f48a1ad-8248-4034-a280-0c84b21a66aa)
 
 
 
