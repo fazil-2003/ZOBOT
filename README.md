@@ -10,6 +10,7 @@
 Our team at Zoho Cliqtrix participated in the product development event and created an innovative bot tailored for HR hiring purposes. This bot is designed to streamline and enhance the hiring process, making it more efficient and user-friendly.
 
 # HOSTED APPLICATION @ https://salesiq.sempit.repl.co/
+//Application May not be Available
 
 # Problem Statement:
 Job Search and Application:
